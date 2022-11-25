@@ -1,0 +1,15 @@
+C:\Users\Mr.Texnika\Desktop\final_progect\bin\Debug\net6.0\final_progect.exe
+C:\Users\Mr.Texnika\Desktop\final_progect\bin\Debug\net6.0\final_progect.deps.json
+C:\Users\Mr.Texnika\Desktop\final_progect\bin\Debug\net6.0\final_progect.runtimeconfig.json
+C:\Users\Mr.Texnika\Desktop\final_progect\bin\Debug\net6.0\final_progect.dll
+C:\Users\Mr.Texnika\Desktop\final_progect\bin\Debug\net6.0\final_progect.pdb
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.csproj.AssemblyReference.cache
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.AssemblyInfoInputs.cache
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.AssemblyInfo.cs
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.dll
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\refint\final_progect.dll
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.pdb
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\final_progect.genruntimeconfig.cache
+C:\Users\Mr.Texnika\Desktop\final_progect\obj\Debug\net6.0\ref\final_progect.dll
